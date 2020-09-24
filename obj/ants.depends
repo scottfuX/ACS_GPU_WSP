@@ -1,0 +1,3 @@
+obj/ants.o: src/ants.cc src/ants.h
+
+src/ants.h:

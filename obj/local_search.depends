@@ -1,0 +1,3 @@
+obj/local_search.o: src/local_search.cc src/local_search.h
+
+src/local_search.h:

@@ -1,0 +1,40 @@
+obj/main.o: src/main.cc src/ants.h src/gpu_ants.h src/stopcondition.h \
+ src/common.h src/picojson.h src/local_search.h \
+ /opt/cuda-10.0/include/cusparse.h /opt/cuda-10.0/include/driver_types.h \
+ /opt/cuda-10.0/include/crt/host_defines.h \
+ /opt/cuda-10.0/include/vector_types.h /opt/cuda-10.0/include/cuComplex.h \
+ /opt/cuda-10.0/include/cuda_fp16.h /opt/cuda-10.0/include/cuda_fp16.hpp \
+ /opt/cuda-10.0/include/library_types.h src/cpu_phmem.h \
+ src/bupt_global_config.h
+
+src/ants.h:
+
+src/gpu_ants.h:
+
+src/stopcondition.h:
+
+src/common.h:
+
+src/picojson.h:
+
+src/local_search.h:
+
+/opt/cuda-10.0/include/cusparse.h:
+
+/opt/cuda-10.0/include/driver_types.h:
+
+/opt/cuda-10.0/include/crt/host_defines.h:
+
+/opt/cuda-10.0/include/vector_types.h:
+
+/opt/cuda-10.0/include/cuComplex.h:
+
+/opt/cuda-10.0/include/cuda_fp16.h:
+
+/opt/cuda-10.0/include/cuda_fp16.hpp:
+
+/opt/cuda-10.0/include/library_types.h:
+
+src/cpu_phmem.h:
+
+src/bupt_global_config.h:

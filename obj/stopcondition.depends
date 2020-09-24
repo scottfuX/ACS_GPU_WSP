@@ -1,0 +1,3 @@
+obj/stopcondition.o: src/stopcondition.cc src/stopcondition.h
+
+src/stopcondition.h:

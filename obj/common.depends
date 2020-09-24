@@ -1,0 +1,5 @@
+obj/common.o: src/common.cc src/common.h src/picojson.h
+
+src/common.h:
+
+src/picojson.h:
