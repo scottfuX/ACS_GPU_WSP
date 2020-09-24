@@ -1,7 +1,10 @@
 # ACS_GPU_WSP
 
+This is a fast GPU version of ACS in the way of producer and consumer by using special warp to solve the Traveling Salesman Problem（TSP）.
+It is developed by research group of Compute Intelligence and Visualization,BUPT.
+
 Thanks for the code support of Skinderowicz, Rafał.
-This is a modified version of the GPU based ant colony system for solving the traveling salesman problem (TSP) based on the code of [GPUbasedACS](https://github.com/RSkinderowicz/GPUBasedACS) of Skinderowicz, Rafał. It is developed by research group of Compute Intelligence and Visualization,BUPT.
+This code is modified based on [GPUbasedACS](https://github.com/RSkinderowicz/GPUBasedACS) of Skinderowicz.
 
 
 
