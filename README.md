@@ -1,7 +1,7 @@
 # ACS_GPU_WSP
 
 Thanks for the code support of Skinderowicz, Rafał.
-This is a new version of the GPU based ant colony system for solving the traveling salesman problem (TSP) based on the code of [GPUbasedACS](https://github.com/RSkinderowicz/GPUBasedACS) of Skinderowicz, Rafał. It is developed by research group of Compute Intelligence and Visualizatio,BUPT.
+This is a modified version of the GPU based ant colony system for solving the traveling salesman problem (TSP) based on the code of [GPUbasedACS](https://github.com/RSkinderowicz/GPUBasedACS) of Skinderowicz, Rafał. It is developed by research group of Compute Intelligence and Visualization,BUPT.
 
 
 
