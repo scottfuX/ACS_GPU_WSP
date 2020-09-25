@@ -1,6 +1,6 @@
 # ACS_GPU_WSP
 
-This is a fast GPU version of ACS in the way of producer and consumer by using GPU warp specialization to solve the Traveling Salesman Problem（TSP）.
+This is a fast GPU version of ACS in the way of producer and consumer by using warp specialization to solve the Traveling Salesman Problem（TSP）.
 It is developed by research group of Compute Intelligence and Visualization,BUPT.
 
 Thanks for the code support of Skinderowicz, Rafał.
@@ -44,7 +44,7 @@ Note that if it doesn't work, you may need to adjust makefil's GPU architecture 
 - --gs_cand_size: set the number of dynamic candidate sets (GS_List) for each city, default: 32
 
 Valid values for the --alg argument:
-- acs_gpu_wsp: a fast GPU version of ACS in the way of producer and consumer by using special wap
+- acs_gpu_wsp: a fast GPU version of ACS in the way of producer and consumer by using warp specialization.
 
 
 # Running
