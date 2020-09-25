@@ -29,7 +29,7 @@ To compile:
 If there are no errors in the compilation, the "gpuants" executable will be generated.
 
 
-Note that if it doesn't work, you may need to adjust makefil's GPU architecture parameters, for example:
+Note that if it doesn't work, you may need to adjust makefile's GPU architecture parameters, for example:
 
     -gencode arch=compute_50,code=sm_70
 
