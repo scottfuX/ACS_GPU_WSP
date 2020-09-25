@@ -1,6 +1,6 @@
 # ACS_GPU_WSP
 
-This is a fast GPU version of ACS in the way of producer and consumer by using special warp to solve the Traveling Salesman Problem（TSP）.
+This is a fast GPU version of ACS in the way of producer and consumer by using GPU warp specialization to solve the Traveling Salesman Problem（TSP）.
 It is developed by research group of Compute Intelligence and Visualization,BUPT.
 
 Thanks for the code support of Skinderowicz, Rafał.
